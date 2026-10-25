@@ -4,3 +4,7 @@ html{
 *{
   color:#191970;
 }
+h1{
+  color:red;
+  font-size: 4rem;
+}
